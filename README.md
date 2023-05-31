@@ -1,2 +1,2 @@
 # Ida
-id active
+id activ
